@@ -141,30 +141,6 @@ An intelligent chatbot designed to provide academic guidance and information to 
 
 ---
 
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/dinesh8667/Resort-Activities-Booking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dinesh8667&repo=Resort-Activities-Booking&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/dinesh8667/Real-estate-selling-web-application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dinesh8667&repo=Real-estate-selling-web-application&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/dinesh8667/Movie-Ticket-Booking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dinesh8667&repo=Movie-Ticket-Booking&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/dinesh8667/Fashion-E-Commerce-website-with-virtual-try-on-and-size-recommendation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dinesh8667&repo=Fashion-E-Commerce-website-with-virtual-try-on-and-size-recommendation&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
