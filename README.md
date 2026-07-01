@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💻 Full-Stack Web Developer
+# 💻 Frontend Web Developer
 
 ### Passionate about building modern, scalable, and user-friendly web applications
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-💻 Full-Stack Web Developer with a strong passion for creating responsive, high-performance, and visually appealing web applications.
+💻 Frontend Web Developer with a strong passion for creating responsive, high-performance, and visually appealing web applications.
 
 🎯 Experienced in developing modern applications using React.js, JavaScript, Firebase, Django, MySQL, and REST APIs.
 
